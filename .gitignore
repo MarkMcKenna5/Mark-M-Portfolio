@@ -1,0 +1,3 @@
+node_modules
+./netlify
+.netlify/edge-functions/_generated
